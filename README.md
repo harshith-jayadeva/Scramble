@@ -1,0 +1,1 @@
+Scramble is a video game based off Wordle. Instead of guessing the word, you will have to unscramble the given letters. This project won 1st place in the Game Design & Coding competition in Colorado in 2023. 
